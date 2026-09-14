@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Bhaskar
 
-<!--
-**Bhaskar-02-reddy/Bhaskar-02-reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's my contribution snake animation:
 
-Here are some ideas to get you started:
+![Contribution Graph Snake Animation](https://github.com/Bhaskar-02-reddy/Bhaskar-02-reddy/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 💻 Developer
+- 🚀 Always learning and building
+
+---
+
+*The snake animation updates daily and visualizes my GitHub contribution graph!*
